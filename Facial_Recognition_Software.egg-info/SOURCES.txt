@@ -1,0 +1,5 @@
+setup.py
+Facial_Recognition_Software.egg-info/PKG-INFO
+Facial_Recognition_Software.egg-info/SOURCES.txt
+Facial_Recognition_Software.egg-info/dependency_links.txt
+Facial_Recognition_Software.egg-info/top_level.txt
